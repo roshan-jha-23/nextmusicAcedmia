@@ -1,0 +1,124 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "title": "Guitar Fundamentals",
+      "slug": "guitar-fundamentals",
+      "description": "Learn the basics of playing guitar with our comprehensive beginners course.",
+      "price": 99.99,
+      "instructor": "John Doe",
+      "isFeatured": true,
+      "image": "/guitar-fundamentals"
+    },
+    {
+      "id": 2,
+      "title": "Piano Basics",
+      "slug": "piano-basics",
+      "description": "Discover the fundamentals of playing the piano, from reading sheet music to proper hand positioning.",
+      "price": 79.99,
+      "instructor": "Jane Smith",
+      "isFeatured": true,
+      "image": "/piano-basics"
+    },
+    {
+      "id": 3,
+      "title": "Music Theory Fundamentals",
+      "slug": "music-theory-fundamentals",
+      "description": "Gain a solid understanding of music theory, including scales, chords, and harmony.",
+      "price": 89.99,
+      "instructor": "Alexandra Brown",
+      "isFeatured": false,
+      "image": "/music-theory"
+    },
+    {
+      "id": 4,
+      "title": "Singing Techniques Workshop",
+      "slug": "singing-techniques-workshop",
+      "description": "Learn essential singing techniques, including breath control, pitch, and vocal exercises.",
+      "price": 69.99,
+      "instructor": "Michael Johnson",
+      "isFeatured": true,
+      "image": "/singing-techniques"
+    },
+    {
+      "id": 5,
+      "title": "Music Production 101",
+      "slug": "music-production-101",
+      "description": "Explore the basics of music production, including recording, editing, and mixing.",
+      "price": 129.99,
+      "instructor": "Sarah Miller",
+      "isFeatured": false,
+      "image": "/music-production"
+    },
+    {
+      "id": 6,
+      "title": "Drumming Essentials",
+      "slug": "drumming-essentials",
+      "description": "Master the basics of drumming, including rudiments, beats, and rhythms.",
+      "price": 99.99,
+      "instructor": "Chris Evans",
+      "isFeatured": true,
+      "image": "/drumming-essentials"
+    },
+    {
+      "id": 7,
+      "title": "Bass Guitar Basics",
+      "slug": "bass-guitar-basics",
+      "description": "Learn the fundamentals of playing bass guitar, including technique and groove.",
+      "price": 79.99,
+      "instructor": "David White",
+      "isFeatured": false,
+      "image": "/bass-guitar-basics"
+    },
+    {
+      "id": 8,
+      "title": "Jazz Improvisation Masterclass",
+      "slug": "jazz-improvisation-masterclass",
+      "description": "Dive into the art of jazz improvisation with advanced techniques and concepts.",
+      "price": 149.99,
+      "instructor": "Emily Davis",
+      "isFeatured": true,
+      "image": "/jazz-improvisation"
+    },
+    {
+      "id": 9,
+      "title": "Songwriting Workshop",
+      "slug": "songwriting-workshop",
+      "description": "Unlock your creativity and learn the craft of songwriting, from lyrics to melody.",
+      "price": 109.99,
+      "instructor": "Thomas Wilson",
+      "isFeatured": false,
+      "image": "/songwriting-workshop"
+    },
+    {
+      "id": 10,
+      "title": "Classical Music Appreciation",
+      "slug": "classical-music-appreciation",
+      "description": "Explore the history and masterpieces of classical music, from Baroque to Romantic.",
+      "price": 79.99,
+      "instructor": "Anna Martinez",
+      "isFeatured": true,
+      "image": "/classical-music"
+    },
+    {
+      "id": 11,
+      "title": "Electronic Music Production",
+      "slug": "electronic-music-production",
+      "description": "Learn to produce electronic music using synthesizers, samplers, and digital audio workstations.",
+      "price": 159.99,
+      "instructor": "Maxwell Johnson",
+      "isFeatured": false,
+      "image": "/electronic-music-production"
+    },
+    {
+      "id": 12,
+      "title": "Gospel Choir Training",
+      "slug": "gospel-choir-training",
+      "description": "Join a dynamic gospel choir and learn vocal techniques, harmonies, and performance skills.",
+      "price": 99.99,
+      "instructor": "Rachel Thompson",
+      "isFeatured": true,
+      "image": "/gospel-choir"
+    }
+  ]
+}
