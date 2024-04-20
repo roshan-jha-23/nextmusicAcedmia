@@ -10,14 +10,19 @@ import WhyChooseUs from "@/components/WhyChooseUs";
 export default function Home() {
   return (
     <main className="min-h-screen bg-black/[0.96] antialiased bg-grid-white/[0.2]">
-      <h1 className="text-2xl text-center">Chai %or Code</h1>
-      <HeroSection/>
-      <FeaturedCourses/>
-      <WhyChooseUs/>
-      <MusicSchoolTestimonials/>
-      <UpcomingWebinars/>
-      <Instructors/>
-      <Footer/>
+      <div className="header-container">
+        <h1 className="text-4xl text-center bg-yellow-500 text-black py-4 px-6 rounded-lg shadow-lg">
+          Music Academia
+        </h1>
+      </div>
+
+      <HeroSection />
+      <FeaturedCourses />
+      <WhyChooseUs />
+      <MusicSchoolTestimonials />
+      <UpcomingWebinars />
+      <Instructors />
+      <Footer />
     </main>
   );
 }
