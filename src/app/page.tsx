@@ -11,7 +11,7 @@ export default function Home() {
   return (
     <main className="min-h-screen bg-black/[0.96] antialiased bg-grid-white/[0.2]">
       <div className="header-container">
-        <h1 className="text-4xl text-center bg-yellow-500 text-black py-4 px-6 rounded-lg shadow-lg">
+        <h1 className="text-4xl text-center bg-yellow-500 mt-20 text-black py-4 px-6 rounded-lg shadow-lg">
           Music Academia
         </h1>
       </div>
