@@ -11,7 +11,7 @@ function Footer() {
           </p>
           {/* Add your details here */}
           <p className="mb-2">Founded in 2024</p>
-          <p>Founder: Hassan Ali</p>
+          <p>Founder:Roshan Jha</p>
         </div>
         <div>{/* Quick Links */}</div>
         <div>{/* Follow Us */}</div>
